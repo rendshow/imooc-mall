@@ -29,3 +29,5 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ###存在一些没必要的组件
+dependencies:core:3.3.2
+vue:2.6.10
